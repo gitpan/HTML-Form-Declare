@@ -4,6 +4,8 @@ use strict;
 use Carp;
 use Data::Dumper;
 
+our $VERSION = '0.03_l';
+
 sub new {
     my $proto = shift;
     my $data = shift;
@@ -55,11 +57,11 @@ use Data::Dumper;
 
 =head1 VERSION
 
-	Version 0.02_l
+	Version 0.03_l
 
 =cut
 
-our $VERSION = '0.02_l';
+our $VERSION = '0.03_l';
 
 =head1 SYNOPSIS
 

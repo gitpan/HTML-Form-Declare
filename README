@@ -2,7 +2,7 @@ NAME
     HTML::Form::Declare - Object description of the form elements
 
 VERSION
-    Version 0.02_l
+    Version 0.03_l
 
 SYNOPSIS
         use HTML::Form::Declare;

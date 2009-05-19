@@ -10,11 +10,11 @@ HTML::Form::Declare - Object description of the form elements
 
 =head1 VERSION
 
-Version 0.02_l
+Version 0.03_l
 
 =cut
 
-our $VERSION = '0.02_l';
+our $VERSION = '0.03_l';
 
 
 =head1 SYNOPSIS
